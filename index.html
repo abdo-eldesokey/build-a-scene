@@ -143,25 +143,16 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified is-size-5">
           <p>
-            We propose a diffusion-based approach for Text-to-Image (T2I) generation with
-            <b>interactive 3D layout control</b>. Layout control has been widely studied to allevi-
-            ate the shortcomings of T2I diffusion models in understanding objects’ placement
-            and relationships from text descriptions. Nevertheless, existing approaches for
-            layout control are limited to 2D layouts, require the user to provide a static lay-
-            out beforehand, and fail to preserve generated images under layout changes. This
-            makes these approaches unsuitable for applications that require 3D object-wise
-            control and iterative refinements, e.g., interior design and complex scene gener-
-            ation. To this end, we leverage the recent advancements in depth-conditioned
-            T2I models and propose a novel approach for interactive 3D layout control. We
-            replace the traditional 2D boxes used in layout control with 3D boxes. Further-
-            more, we revamp the T2I task as a multi-stage generation process, where at each
-            stage, the user can insert, change, and move an object in 3D while preserving ob-
-            jects from earlier stages. We achieve this by proposing a <b>Dynamic Self-Attention
-            (DSA)</b> module and a <b>consistent 3D object translation strategy</b>. Experiments show
-            that our approach can generate complicated scenes based on 3D layouts, enhanc-
-            ing user controllability, and has 2× the success rate compared to standard depth-
-            conditioned T2I approaches. Build-A-Scene is training-free, and it establishes new
-            lines of research for interactive layouts and 3D layout control.
+            We propose a diffusion-based approach for Text-to-Image (T2I) generation with <b>interactive 3D layout control</b>. 
+            Layout control has been widely studied to alleviate the shortcomings of T2I diffusion models in understanding objects' placement and relationships from text descriptions.
+             Nevertheless, existing approaches for layout control are <u>limited to 2D layouts</u>, require the user to provide a <u>static layout beforehand</u>, and <u>fail to preserve generated images under layout changes</u>. 
+             This makes these approaches unsuitable for applications that require 3D object-wise control and iterative refinements, e.g., interior design and complex scene generation. 
+             To this end, we leverage the recent advancements in depth-conditioned T2I models and propose a novel approach for interactive 3D layout control. 
+             We replace the traditional 2D boxes used in layout control with 3D boxes. 
+             Furthermore, we revamp the T2I task as a multi-stage generation process, where at each stage, the user can insert, change, and move an object in 3D while preserving objects from earlier stages. 
+             We achieve this through our proposed <b>Dynamic Self-Attention (DSA)</b> module and the <b>consistent 3D object translation</b> strategy. 
+             Experiments show that our approach can generate complicated scenes based on 3D layouts, boosting the object generation success rate over the standard depth-conditioned T2I methods by 2x. 
+             Moreover, it outperforms other methods in comparison in preserving objects under layout changes.
           </p>
         </div>
       </div>
@@ -203,6 +194,17 @@
       [1] Chen, Minghao, <i>et al.</i> "Training-free layout control with cross-attention guidance." WACV (2024). <br>
       [2] Bhat, Shariq Farooq <i>et al.</i> "Loosecontrol: Lifting controlnet for generalized depth conditioning." ACM SIGGRAPH 2024 Conference Papers. (2024).                  
     </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div class="column has-text-centered" style="padding-left: 5%; padding-right: 5%;">
+      <h2 class="title is-3">Object Consistency Under Layout Change</h2>
+      <img src="static/images/qual_cons.jpg"  width="1000"  alt="method" class="center">    
       </div>
     </div>
   </div>
