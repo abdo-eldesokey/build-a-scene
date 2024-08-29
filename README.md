@@ -4,7 +4,7 @@
 
 # Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation
 <a href='https://abdo-eldesokey.github.io/build-a-scene/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://arxiv.org/abs/2312.07133'><img src='https://img.shields.io/badge/ArXiv-2312.03047-red'></a> 
+<a href='https://arxiv.org/abs/2408.14819'><img src='https://img.shields.io/badge/ArXiv-2408.14819-red'></a> 
 
 
 Official repository for "Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation"
