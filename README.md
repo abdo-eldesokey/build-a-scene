@@ -41,6 +41,7 @@ python -m eval.evaluate_consistency
 We provide a list of potential directions that can help improve this work
 - The quality of the base SD1.5 is limited; an SDXL variation can significantly boost the visual quality.
 - This work covered Consistent 3D Translation, but extending it to consistent 3D rotation as well can enhance the user controllability.
+- Decrease the sensitivity of the model to the size and aspect ratio of the 3D box.
 
 ## Citation
 If you use this code base or compare against it, please cite our paper
