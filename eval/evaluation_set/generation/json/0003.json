@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 79,
+  "scene": "An empty apartment",
+  "seeds": [
+    198,
+    7328,
+    3560,
+    92,
+    6455
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      2.852490115652245,
+      9.157977167425521,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a bed",
+    "aspect_ratio": [
+      0.6,
+      0.7,
+      0.25
+    ],
+    "size": [
+      6.0,
+      7.0,
+      2.5
+    ],
+    "origin": [
+      -2.852490115652245,
+      9.157977167425521,
+      -3.75
+    ],
+    "relation": "l"
+  }
+}

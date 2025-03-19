@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 70,
+  "scene": "A snowy landscape",
+  "seeds": [
+    756,
+    6649,
+    1176,
+    2281,
+    3679
+  ],
+  "box_1": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      4.049051815451042,
+      6.9182570528039165,
+      -3.25
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      7.0,
+      3.0,
+      3.0
+    ],
+    "origin": [
+      -4.049051815451042,
+      6.9182570528039165,
+      -3.5
+    ],
+    "relation": "l"
+  }
+}

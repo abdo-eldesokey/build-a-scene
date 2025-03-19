@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 79,
+  "scene": "A snowy landscape",
+  "seeds": [
+    713,
+    2203,
+    3580,
+    6250,
+    6713
+  ],
+  "box_1": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      4.800000000000001,
+      1.2000000000000002,
+      2.0999999999999996
+    ],
+    "origin": [
+      0,
+      3.848509953929522,
+      -1.9500000000000002
+    ],
+    "action": "zoom_in",
+    "action_scale": 2.0
+  }
+}

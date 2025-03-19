@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 73,
+  "scene": "A snowy landscape",
+  "seeds": [
+    4414,
+    9945,
+    2229,
+    5723,
+    7714
+  ],
+  "box_1": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      4.199999999999999,
+      1.7999999999999998,
+      1.7999999999999998
+    ],
+    "origin": [
+      0,
+      4.675578908305143,
+      -2.1
+    ],
+    "action": "zoom_in",
+    "action_scale": 1.0
+  }
+}

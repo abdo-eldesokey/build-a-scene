@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 82,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    7611,
+    5325,
+    2639,
+    2401,
+    7326
+  ],
+  "box_1": {
+    "prompt": "a teddy bear",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.4
+    ],
+    "size": [
+      1.7999999999999998,
+      1.2000000000000002,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      3.7876426190152968,
+      -1.7999999999999998
+    ],
+    "action": "move_left",
+    "action_scale": 1.5
+  }
+}

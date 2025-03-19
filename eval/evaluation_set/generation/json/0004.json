@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 71,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    477,
+    7631,
+    451,
+    8181,
+    7353
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      -1.6348725026163984,
+      9.689111909831063,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      1.6348725026163984,
+      9.689111909831063,
+      -3.0
+    ],
+    "relation": "r"
+  }
+}

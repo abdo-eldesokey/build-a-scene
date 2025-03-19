@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 74,
+  "scene": "An empty apartment",
+  "seeds": [
+    5161,
+    1934,
+    9905,
+    9356,
+    307
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      2.8076647211889867,
+      6.485590862905214,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a microwave",
+    "aspect_ratio": [
+      0.4,
+      0.2,
+      0.25
+    ],
+    "size": [
+      4.0,
+      2.0,
+      2.5
+    ],
+    "origin": [
+      -2.8076647211889867,
+      6.485590862905214,
+      -3.75
+    ],
+    "relation": "l"
+  }
+}

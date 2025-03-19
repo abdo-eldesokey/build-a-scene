@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 72,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    8033,
+    1674,
+    3728,
+    3065,
+    6120
+  ],
+  "box_1": {
+    "prompt": "a sofa",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.4
+    ],
+    "size": [
+      5.4,
+      1.7999999999999998,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      3.9631514719692267,
+      -1.7999999999999998
+    ],
+    "action": "zoom_in",
+    "action_scale": 2.0
+  }
+}

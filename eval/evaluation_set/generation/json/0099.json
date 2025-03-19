@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 70,
+  "scene": "An empty road",
+  "seeds": [
+    8415,
+    8200,
+    4282,
+    5427,
+    1364
+  ],
+  "box_1": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      4.53335639342133,
+      7.535211564763289,
+      -3.25
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      7.0,
+      3.0,
+      3.0
+    ],
+    "origin": [
+      -4.53335639342133,
+      7.535211564763289,
+      -3.5
+    ],
+    "relation": "l"
+  }
+}

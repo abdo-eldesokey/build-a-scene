@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 74,
+  "scene": "An empty street",
+  "seeds": [
+    5849,
+    272,
+    2005,
+    8331,
+    7560
+  ],
+  "box_1": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      7.0,
+      3.0,
+      3.0
+    ],
+    "origin": [
+      4.0812646722398735,
+      9.479561328740843,
+      -3.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a sofa",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.4
+    ],
+    "size": [
+      9.0,
+      3.0,
+      4.0
+    ],
+    "origin": [
+      -4.0812646722398735,
+      9.479561328740843,
+      -3.0
+    ],
+    "relation": "l"
+  }
+}

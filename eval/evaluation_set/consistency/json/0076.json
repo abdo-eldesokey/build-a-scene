@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 86,
+  "scene": "An empty road",
+  "seeds": [
+    7473,
+    7289,
+    8575,
+    3997,
+    4974
+  ],
+  "box_1": {
+    "prompt": "a horse",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.5
+    ],
+    "size": [
+      4.199999999999999,
+      1.7999999999999998,
+      3.0
+    ],
+    "origin": [
+      0,
+      4.748073143374207,
+      -1.5
+    ],
+    "action": "zoom_in",
+    "action_scale": 1.5
+  }
+}

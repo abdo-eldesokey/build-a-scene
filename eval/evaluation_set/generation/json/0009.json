@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 71,
+  "scene": "An empty street",
+  "seeds": [
+    9831,
+    8692,
+    3498,
+    4826,
+    7770
+  ],
+  "box_1": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      -4.69999158674154,
+      8.89102082896015,
+      -3.25
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      4.69999158674154,
+      8.89102082896015,
+      -3.25
+    ],
+    "relation": "r"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 86,
+  "scene": "An empty road",
+  "seeds": [
+    6383,
+    5671,
+    9135,
+    5930,
+    1250
+  ],
+  "box_1": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      4.800000000000001,
+      1.2000000000000002,
+      2.0999999999999996
+    ],
+    "origin": [
+      0,
+      4.4607684922397635,
+      -1.9500000000000002
+    ],
+    "action": "move_right",
+    "action_scale": 1.0
+  }
+}

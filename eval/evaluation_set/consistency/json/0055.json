@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 80,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    5948,
+    1481,
+    7099,
+    7427,
+    1350
+  ],
+  "box_1": {
+    "prompt": "a bed",
+    "aspect_ratio": [
+      0.6,
+      0.7,
+      0.25
+    ],
+    "size": [
+      3.5999999999999996,
+      4.199999999999999,
+      1.5
+    ],
+    "origin": [
+      0,
+      4.762794617500045,
+      -2.25
+    ],
+    "action": "move_right",
+    "action_scale": 2.0
+  }
+}

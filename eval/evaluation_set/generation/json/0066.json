@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 74,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    896,
+    1121,
+    7814,
+    9464,
+    4864
+  ],
+  "box_1": {
+    "prompt": "a dog",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.5
+    ],
+    "size": [
+      3.0,
+      2.0,
+      5.0
+    ],
+    "origin": [
+      3.165305440748993,
+      8.864953401085655,
+      -2.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      -3.165305440748993,
+      8.864953401085655,
+      -3.25
+    ],
+    "relation": "l"
+  }
+}

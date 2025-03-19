@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 71,
+  "scene": "An empty apartment",
+  "seeds": [
+    5182,
+    2352,
+    4429,
+    9753,
+    1237
+  ],
+  "box_1": {
+    "prompt": "a sofa",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.4
+    ],
+    "size": [
+      9.0,
+      3.0,
+      4.0
+    ],
+    "origin": [
+      -3.729083586088182,
+      7.569900347335801,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a table",
+    "aspect_ratio": [
+      0.5,
+      0.5,
+      0.4
+    ],
+    "size": [
+      5.0,
+      5.0,
+      4.0
+    ],
+    "origin": [
+      3.729083586088182,
+      7.569900347335801,
+      -3.0
+    ],
+    "relation": "r"
+  }
+}

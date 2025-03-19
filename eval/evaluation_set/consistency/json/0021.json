@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 72,
+  "scene": "An empty studio",
+  "seeds": [
+    8900,
+    7112,
+    7298,
+    56,
+    8905
+  ],
+  "box_1": {
+    "prompt": "a bed",
+    "aspect_ratio": [
+      0.6,
+      0.7,
+      0.25
+    ],
+    "size": [
+      3.5999999999999996,
+      4.199999999999999,
+      1.5
+    ],
+    "origin": [
+      0,
+      3.8181730029794494,
+      -2.25
+    ],
+    "action": "zoom_in",
+    "action_scale": 2.0
+  }
+}

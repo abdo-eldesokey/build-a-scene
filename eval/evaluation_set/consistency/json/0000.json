@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 81,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    6558,
+    6012,
+    163,
+    8772,
+    3704
+  ],
+  "box_1": {
+    "prompt": "a car",
+    "aspect_ratio": [
+      0.6,
+      1.2,
+      0.4
+    ],
+    "size": [
+      3.5999999999999996,
+      7.199999999999999,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      3.6582264010877346,
+      -1.7999999999999998
+    ],
+    "action": "move_right",
+    "action_scale": 1.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 80,
+  "scene": "An empty studio",
+  "seeds": [
+    6952,
+    1324,
+    1531,
+    8598,
+    7963
+  ],
+  "box_1": {
+    "prompt": "a chair",
+    "aspect_ratio": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "size": [
+      1.5,
+      1.5,
+      3.0
+    ],
+    "origin": [
+      0,
+      4.704991330180446,
+      -1.5
+    ],
+    "action": "zoom_in",
+    "action_scale": 1.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 85,
+  "scene": "An empty studio",
+  "seeds": [
+    2574,
+    9647,
+    567,
+    2322,
+    86
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      1.7999999999999998,
+      0.6000000000000001,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      4.091331099482838,
+      -1.7999999999999998
+    ],
+    "action": "move_left",
+    "action_scale": 2.0
+  }
+}

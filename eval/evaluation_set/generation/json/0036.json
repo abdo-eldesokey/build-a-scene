@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 72,
+  "scene": "An empty apartment",
+  "seeds": [
+    8033,
+    1674,
+    3728,
+    3065,
+    6120
+  ],
+  "box_1": {
+    "prompt": "a microwave",
+    "aspect_ratio": [
+      0.4,
+      0.2,
+      0.25
+    ],
+    "size": [
+      4.0,
+      2.0,
+      2.5
+    ],
+    "origin": [
+      2.7108616200484135,
+      7.210504906564089,
+      -3.75
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a chair",
+    "aspect_ratio": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "size": [
+      2.5,
+      2.5,
+      5.0
+    ],
+    "origin": [
+      -2.7108616200484135,
+      7.210504906564089,
+      -2.5
+    ],
+    "relation": "l"
+  }
+}

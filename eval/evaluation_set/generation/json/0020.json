@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 73,
+  "scene": "An empty beach",
+  "seeds": [
+    397,
+    9296,
+    4273,
+    314,
+    7895
+  ],
+  "box_1": {
+    "prompt": "a horse",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.5
+    ],
+    "size": [
+      7.0,
+      3.0,
+      5.0
+    ],
+    "origin": [
+      -5.005362817084984,
+      9.563936605283454,
+      -2.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a horse",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.5
+    ],
+    "size": [
+      7.0,
+      3.0,
+      5.0
+    ],
+    "origin": [
+      5.005362817084984,
+      9.563936605283454,
+      -2.5
+    ],
+    "relation": "r"
+  }
+}

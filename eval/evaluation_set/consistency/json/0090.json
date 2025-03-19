@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 87,
+  "scene": "An empty road",
+  "seeds": [
+    5849,
+    272,
+    2005,
+    8331,
+    7560
+  ],
+  "box_1": {
+    "prompt": "a dog",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.5
+    ],
+    "size": [
+      1.7999999999999998,
+      1.2000000000000002,
+      3.0
+    ],
+    "origin": [
+      0,
+      4.643868398622253,
+      -1.5
+    ],
+    "action": "move_left",
+    "action_scale": 2.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 80,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    5289,
+    3891,
+    2040,
+    7316,
+    8332
+  ],
+  "box_1": {
+    "prompt": "a dog",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.5
+    ],
+    "size": [
+      1.7999999999999998,
+      1.2000000000000002,
+      3.0
+    ],
+    "origin": [
+      0,
+      3.7691004765544047,
+      -1.5
+    ],
+    "action": "move_left",
+    "action_scale": 1.5
+  }
+}

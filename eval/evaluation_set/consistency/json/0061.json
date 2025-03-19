@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 85,
+  "scene": "An empty street",
+  "seeds": [
+    5029,
+    2603,
+    4281,
+    7883,
+    9112
+  ],
+  "box_1": {
+    "prompt": "a sofa",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.4
+    ],
+    "size": [
+      5.4,
+      1.7999999999999998,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      3.6615915703262596,
+      -1.7999999999999998
+    ],
+    "action": "move_left",
+    "action_scale": 1.0
+  }
+}

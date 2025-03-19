@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 78,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    3417,
+    3924,
+    5002,
+    5379,
+    2489
+  ],
+  "box_1": {
+    "prompt": "an elephant",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.6
+    ],
+    "size": [
+      5.4,
+      1.7999999999999998,
+      3.5999999999999996
+    ],
+    "origin": [
+      0,
+      4.435683245660428,
+      -1.2000000000000002
+    ],
+    "action": "move_left",
+    "action_scale": 1.5
+  }
+}

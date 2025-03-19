@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 79,
+  "scene": "An empty street",
+  "seeds": [
+    3936,
+    679,
+    4600,
+    3505,
+    8634
+  ],
+  "box_1": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      3.136657069828976,
+      9.451734180364259,
+      -3.25
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      -3.136657069828976,
+      9.451734180364259,
+      -3.0
+    ],
+    "relation": "l"
+  }
+}

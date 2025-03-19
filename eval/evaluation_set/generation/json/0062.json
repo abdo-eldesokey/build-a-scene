@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 76,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    4350,
+    5639,
+    5798,
+    2800,
+    3472
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      -3.4382101350714813,
+      8.866374397344885,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a motorcycle",
+    "aspect_ratio": [
+      0.8,
+      0.2,
+      0.35
+    ],
+    "size": [
+      8.0,
+      2.0,
+      3.5
+    ],
+    "origin": [
+      3.4382101350714813,
+      8.866374397344885,
+      -3.25
+    ],
+    "relation": "r"
+  }
+}

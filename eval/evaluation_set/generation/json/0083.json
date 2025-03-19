@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 75,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    7527,
+    4066,
+    8001,
+    364,
+    6591
+  ],
+  "box_1": {
+    "prompt": "a grizzly bear",
+    "aspect_ratio": [
+      0.8,
+      0.3,
+      0.5
+    ],
+    "size": [
+      8.0,
+      3.0,
+      5.0
+    ],
+    "origin": [
+      2.884262607637342,
+      7.520706009820591,
+      -2.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a cat",
+    "aspect_ratio": [
+      0.2,
+      0.2,
+      0.4
+    ],
+    "size": [
+      2.0,
+      2.0,
+      4.0
+    ],
+    "origin": [
+      -2.884262607637342,
+      7.520706009820591,
+      -3.0
+    ],
+    "relation": "l"
+  }
+}

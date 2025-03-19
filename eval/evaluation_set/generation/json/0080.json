@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 73,
+  "scene": "An empty studio",
+  "seeds": [
+    19,
+    6901,
+    2823,
+    9289,
+    5447
+  ],
+  "box_1": {
+    "prompt": "a bed",
+    "aspect_ratio": [
+      0.6,
+      0.7,
+      0.25
+    ],
+    "size": [
+      6.0,
+      7.0,
+      2.5
+    ],
+    "origin": [
+      -3.149669125420739,
+      7.672297950161633,
+      -3.75
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      3.149669125420739,
+      7.672297950161633,
+      -3.0
+    ],
+    "relation": "r"
+  }
+}

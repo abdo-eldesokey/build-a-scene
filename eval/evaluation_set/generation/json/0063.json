@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 70,
+  "scene": "An empty road",
+  "seeds": [
+    2773,
+    2905,
+    4239,
+    8795,
+    3173
+  ],
+  "box_1": {
+    "prompt": "a grizzly bear",
+    "aspect_ratio": [
+      0.8,
+      0.3,
+      0.5
+    ],
+    "size": [
+      8.0,
+      3.0,
+      5.0
+    ],
+    "origin": [
+      -4.43267326102508,
+      8.851475179956012,
+      -2.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a dog",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.5
+    ],
+    "size": [
+      3.0,
+      2.0,
+      5.0
+    ],
+    "origin": [
+      4.43267326102508,
+      8.851475179956012,
+      -2.5
+    ],
+    "relation": "r"
+  }
+}

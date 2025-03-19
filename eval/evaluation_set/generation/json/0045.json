@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 70,
+  "scene": "An empty studio",
+  "seeds": [
+    6774,
+    6508,
+    6502,
+    3836,
+    4127
+  ],
+  "box_1": {
+    "prompt": "a microwave",
+    "aspect_ratio": [
+      0.4,
+      0.2,
+      0.25
+    ],
+    "size": [
+      4.0,
+      2.0,
+      2.5
+    ],
+    "origin": [
+      -3.307734435225311,
+      7.418345898507933,
+      -3.75
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      3.307734435225311,
+      7.418345898507933,
+      -3.0
+    ],
+    "relation": "r"
+  }
+}

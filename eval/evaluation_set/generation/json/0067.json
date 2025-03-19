@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 75,
+  "scene": "An empty apartment",
+  "seeds": [
+    7534,
+    4066,
+    7330,
+    5379,
+    6822
+  ],
+  "box_1": {
+    "prompt": "a table",
+    "aspect_ratio": [
+      0.5,
+      0.5,
+      0.4
+    ],
+    "size": [
+      5.0,
+      5.0,
+      4.0
+    ],
+    "origin": [
+      3.0988507871645226,
+      9.548823860468065,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "an lcd tv",
+    "aspect_ratio": [
+      0.5,
+      0.05,
+      0.3
+    ],
+    "size": [
+      5.0,
+      0.5,
+      3.0
+    ],
+    "origin": [
+      -3.0988507871645226,
+      9.548823860468065,
+      -3.5
+    ],
+    "relation": "l"
+  }
+}

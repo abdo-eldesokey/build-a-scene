@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 75,
+  "scene": "A snowy landscape",
+  "seeds": [
+    4117,
+    3921,
+    2529,
+    5521,
+    8549
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      2.751796522311889,
+      7.692829393289383,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a car",
+    "aspect_ratio": [
+      0.6,
+      1.2,
+      0.4
+    ],
+    "size": [
+      6.0,
+      12.0,
+      4.0
+    ],
+    "origin": [
+      -2.751796522311889,
+      7.692829393289383,
+      -3.0
+    ],
+    "relation": "l"
+  }
+}

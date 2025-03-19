@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 73,
+  "scene": "An empty road",
+  "seeds": [
+    9095,
+    9860,
+    6726,
+    197,
+    2817
+  ],
+  "box_1": {
+    "prompt": "a sofa",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.4
+    ],
+    "size": [
+      9.0,
+      3.0,
+      4.0
+    ],
+    "origin": [
+      4.183983425496075,
+      8.30087883667144,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      7.0,
+      3.0,
+      3.0
+    ],
+    "origin": [
+      -4.183983425496075,
+      8.30087883667144,
+      -3.5
+    ],
+    "relation": "l"
+  }
+}

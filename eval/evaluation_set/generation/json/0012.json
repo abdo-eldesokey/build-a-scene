@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 74,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    548,
+    961,
+    5104,
+    3727,
+    4662
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      3.0,
+      1.0,
+      4.0
+    ],
+    "origin": [
+      -3.969923288948759,
+      9.186983374638077,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "an elephant",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.6
+    ],
+    "size": [
+      9.0,
+      3.0,
+      6.0
+    ],
+    "origin": [
+      3.969923288948759,
+      9.186983374638077,
+      -2.0
+    ],
+    "relation": "r"
+  }
+}

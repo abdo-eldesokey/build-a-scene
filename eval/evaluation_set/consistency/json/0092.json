@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 82,
+  "scene": "An empty jungle",
+  "seeds": [
+    6544,
+    2198,
+    952,
+    2504,
+    2464
+  ],
+  "box_1": {
+    "prompt": "a grizzly bear",
+    "aspect_ratio": [
+      0.8,
+      0.3,
+      0.5
+    ],
+    "size": [
+      4.800000000000001,
+      1.7999999999999998,
+      3.0
+    ],
+    "origin": [
+      0,
+      4.360954268581537,
+      -1.5
+    ],
+    "action": "move_right",
+    "action_scale": 2.0
+  }
+}

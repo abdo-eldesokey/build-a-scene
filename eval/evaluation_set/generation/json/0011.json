@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 71,
+  "scene": "An empty apartment",
+  "seeds": [
+    268,
+    6697,
+    2950,
+    9308,
+    2923
+  ],
+  "box_1": {
+    "prompt": "a teddy bear",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.4
+    ],
+    "size": [
+      3.0,
+      2.0,
+      4.0
+    ],
+    "origin": [
+      1.5151674679011709,
+      8.076502416398682,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a chair",
+    "aspect_ratio": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "size": [
+      2.5,
+      2.5,
+      5.0
+    ],
+    "origin": [
+      -1.5151674679011709,
+      8.076502416398682,
+      -2.5
+    ],
+    "relation": "l"
+  }
+}

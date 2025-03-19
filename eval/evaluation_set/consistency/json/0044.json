@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 73,
+  "scene": "An empty beach",
+  "seeds": [
+    3268,
+    6628,
+    2355,
+    496,
+    8801
+  ],
+  "box_1": {
+    "prompt": "a dog",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.5
+    ],
+    "size": [
+      1.7999999999999998,
+      1.2000000000000002,
+      3.0
+    ],
+    "origin": [
+      0,
+      4.474275030277088,
+      -1.5
+    ],
+    "action": "move_left",
+    "action_scale": 1.5
+  }
+}

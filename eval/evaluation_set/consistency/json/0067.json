@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 82,
+  "scene": "An empty apartment",
+  "seeds": [
+    907,
+    2517,
+    673,
+    9467,
+    5990
+  ],
+  "box_1": {
+    "prompt": "a bed",
+    "aspect_ratio": [
+      0.6,
+      0.7,
+      0.25
+    ],
+    "size": [
+      3.5999999999999996,
+      4.199999999999999,
+      1.5
+    ],
+    "origin": [
+      0,
+      3.773381146063681,
+      -2.25
+    ],
+    "action": "zoom_in",
+    "action_scale": 1.5
+  }
+}

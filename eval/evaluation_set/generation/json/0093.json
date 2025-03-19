@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 71,
+  "scene": "An empty beach",
+  "seeds": [
+    4899,
+    5122,
+    4047,
+    9683,
+    7114
+  ],
+  "box_1": {
+    "prompt": "a horse",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.5
+    ],
+    "size": [
+      7.0,
+      3.0,
+      5.0
+    ],
+    "origin": [
+      -4.20657901501618,
+      9.452869485328549,
+      -2.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a grizzly bear",
+    "aspect_ratio": [
+      0.8,
+      0.3,
+      0.5
+    ],
+    "size": [
+      8.0,
+      3.0,
+      5.0
+    ],
+    "origin": [
+      4.20657901501618,
+      9.452869485328549,
+      -2.5
+    ],
+    "relation": "r"
+  }
+}

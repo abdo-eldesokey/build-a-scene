@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 86,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    1450,
+    4398,
+    9333,
+    2044,
+    2169
+  ],
+  "box_1": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      4.199999999999999,
+      1.7999999999999998,
+      1.7999999999999998
+    ],
+    "origin": [
+      0,
+      4.235392967510946,
+      -2.1
+    ],
+    "action": "move_left",
+    "action_scale": 2.0
+  }
+}

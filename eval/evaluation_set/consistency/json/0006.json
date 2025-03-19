@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 86,
+  "scene": "An empty desert with cloudy sky",
+  "seeds": [
+    92,
+    6455,
+    3160,
+    477,
+    7631
+  ],
+  "box_1": {
+    "prompt": "a horse",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.5
+    ],
+    "size": [
+      4.199999999999999,
+      1.7999999999999998,
+      3.0
+    ],
+    "origin": [
+      0,
+      4.410177739119101,
+      -1.5
+    ],
+    "action": "move_left",
+    "action_scale": 1.0
+  }
+}

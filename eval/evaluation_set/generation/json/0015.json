@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 72,
+  "scene": "An empty apartment",
+  "seeds": [
+    5217,
+    8558,
+    1859,
+    2752,
+    4082
+  ],
+  "box_1": {
+    "prompt": "a chair",
+    "aspect_ratio": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "size": [
+      2.5,
+      2.5,
+      5.0
+    ],
+    "origin": [
+      -1.8815363938598797,
+      7.301510164475836,
+      -2.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a chair",
+    "aspect_ratio": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "size": [
+      2.5,
+      2.5,
+      5.0
+    ],
+    "origin": [
+      1.8815363938598797,
+      7.301510164475836,
+      -2.5
+    ],
+    "relation": "r"
+  }
+}

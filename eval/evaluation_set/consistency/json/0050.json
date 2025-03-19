@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 88,
+  "scene": "An empty studio",
+  "seeds": [
+    8111,
+    8342,
+    8063,
+    4680,
+    3751
+  ],
+  "box_1": {
+    "prompt": "an lcd tv",
+    "aspect_ratio": [
+      0.5,
+      0.05,
+      0.3
+    ],
+    "size": [
+      3.0,
+      0.30000000000000004,
+      1.7999999999999998
+    ],
+    "origin": [
+      0,
+      3.8892626316819428,
+      -2.1
+    ],
+    "action": "move_right",
+    "action_scale": 2.0
+  }
+}

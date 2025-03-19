@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 85,
+  "scene": "An empty studio",
+  "seeds": [
+    4712,
+    3665,
+    4535,
+    1965,
+    5307
+  ],
+  "box_1": {
+    "prompt": "a table",
+    "aspect_ratio": [
+      0.5,
+      0.5,
+      0.4
+    ],
+    "size": [
+      3.0,
+      3.0,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      4.179141934613165,
+      -1.7999999999999998
+    ],
+    "action": "move_right",
+    "action_scale": 1.5
+  }
+}

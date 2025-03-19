@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 73,
+  "scene": "A snowy landscape",
+  "seeds": [
+    3371,
+    8785,
+    6638,
+    788,
+    2700
+  ],
+  "box_1": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      7.0,
+      3.0,
+      3.0
+    ],
+    "origin": [
+      4.678827379527748,
+      8.95653277533574,
+      -3.5
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      7.0,
+      3.0,
+      3.0
+    ],
+    "origin": [
+      -4.678827379527748,
+      8.95653277533574,
+      -3.5
+    ],
+    "relation": "l"
+  }
+}

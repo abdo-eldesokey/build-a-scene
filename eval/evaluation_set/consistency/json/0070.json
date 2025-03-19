@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 75,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    7310,
+    497,
+    4113,
+    504,
+    8470
+  ],
+  "box_1": {
+    "prompt": "a microwave",
+    "aspect_ratio": [
+      0.4,
+      0.2,
+      0.25
+    ],
+    "size": [
+      2.4000000000000004,
+      1.2000000000000002,
+      1.5
+    ],
+    "origin": [
+      0,
+      4.334978153057381,
+      -2.25
+    ],
+    "action": "move_left",
+    "action_scale": 2.0
+  }
+}

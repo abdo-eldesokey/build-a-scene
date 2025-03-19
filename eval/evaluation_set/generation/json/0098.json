@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 71,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    8577,
+    6759,
+    760,
+    1727,
+    831
+  ],
+  "box_1": {
+    "prompt": "a teddy bear",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.4
+    ],
+    "size": [
+      3.0,
+      2.0,
+      4.0
+    ],
+    "origin": [
+      3.3477284425211744,
+      8.728894906467296,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a bed",
+    "aspect_ratio": [
+      0.6,
+      0.7,
+      0.25
+    ],
+    "size": [
+      6.0,
+      7.0,
+      2.5
+    ],
+    "origin": [
+      -3.3477284425211744,
+      8.728894906467296,
+      -3.75
+    ],
+    "relation": "l"
+  }
+}

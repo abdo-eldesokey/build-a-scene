@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 89,
+  "scene": "An empty street",
+  "seeds": [
+    7195,
+    974,
+    6930,
+    9815,
+    4535
+  ],
+  "box_1": {
+    "prompt": "a bench",
+    "aspect_ratio": [
+      0.7,
+      0.3,
+      0.3
+    ],
+    "size": [
+      4.199999999999999,
+      1.7999999999999998,
+      1.7999999999999998
+    ],
+    "origin": [
+      0,
+      3.9015795034054217,
+      -2.1
+    ],
+    "action": "zoom_in",
+    "action_scale": 1.0
+  }
+}

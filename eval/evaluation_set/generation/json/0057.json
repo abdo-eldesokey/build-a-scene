@@ -1,0 +1,50 @@
+{
+  "scene_size": 5,
+  "camera_angle": 78,
+  "scene": "An empty studio",
+  "seeds": [
+    2210,
+    7102,
+    5401,
+    3064,
+    7786
+  ],
+  "box_1": {
+    "prompt": "a teddy bear",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.4
+    ],
+    "size": [
+      3.0,
+      2.0,
+      4.0
+    ],
+    "origin": [
+      -3.271505299843939,
+      7.78072149437595,
+      -3.0
+    ],
+    "relation": null
+  },
+  "box_2": {
+    "prompt": "a teddy bear",
+    "aspect_ratio": [
+      0.3,
+      0.2,
+      0.4
+    ],
+    "size": [
+      3.0,
+      2.0,
+      4.0
+    ],
+    "origin": [
+      3.271505299843939,
+      7.78072149437595,
+      -3.0
+    ],
+    "relation": "r"
+  }
+}

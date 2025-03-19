@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 73,
+  "scene": "An empty room with windows and curtains",
+  "seeds": [
+    9534,
+    3642,
+    4442,
+    7044,
+    7480
+  ],
+  "box_1": {
+    "prompt": "an lcd tv",
+    "aspect_ratio": [
+      0.5,
+      0.05,
+      0.3
+    ],
+    "size": [
+      3.0,
+      0.30000000000000004,
+      1.7999999999999998
+    ],
+    "origin": [
+      0,
+      4.157585011256802,
+      -2.1
+    ],
+    "action": "move_left",
+    "action_scale": 1.5
+  }
+}

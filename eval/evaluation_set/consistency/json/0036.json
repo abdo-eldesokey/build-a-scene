@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 79,
+  "scene": "An empty street",
+  "seeds": [
+    3936,
+    679,
+    4600,
+    3505,
+    8634
+  ],
+  "box_1": {
+    "prompt": "a backpack",
+    "aspect_ratio": [
+      0.3,
+      0.1,
+      0.4
+    ],
+    "size": [
+      1.7999999999999998,
+      0.6000000000000001,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      4.635520254109278,
+      -1.7999999999999998
+    ],
+    "action": "move_left",
+    "action_scale": 1.0
+  }
+}

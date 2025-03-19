@@ -1,0 +1,32 @@
+{
+  "scene_size": 3,
+  "camera_angle": 80,
+  "scene": "A snowy landscape",
+  "seeds": [
+    5268,
+    9082,
+    1589,
+    6709,
+    3341
+  ],
+  "box_1": {
+    "prompt": "a sofa",
+    "aspect_ratio": [
+      0.9,
+      0.3,
+      0.4
+    ],
+    "size": [
+      5.4,
+      1.7999999999999998,
+      2.4000000000000004
+    ],
+    "origin": [
+      0,
+      3.666608900004868,
+      -1.7999999999999998
+    ],
+    "action": "zoom_in",
+    "action_scale": 1.0
+  }
+}
