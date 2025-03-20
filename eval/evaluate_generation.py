@@ -116,6 +116,7 @@ for json_fname in sorted(gen_jsons_path.glob("*.json"), reverse=False):
             latent_mask=latent_mask_b1,
             bg_latents_list=latents_list_empty,
             blend_latents_timesteps=range(end_latent_blending),
+            mask_dsa_v=True,
         )
         b1_editor = deepcopy(scene.editor)
         if SAVE_IMGS:
@@ -141,6 +142,7 @@ for json_fname in sorted(gen_jsons_path.glob("*.json"), reverse=False):
             latent_mask=latent_mask_b2,
             bg_latents_list=latents_list_b1,
             blend_latents_timesteps=range(end_latent_blending),
+            mask_dsa_v=True,
         )
 
         b2_editor = deepcopy(scene.editor)

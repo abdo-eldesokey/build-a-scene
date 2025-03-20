@@ -117,6 +117,8 @@ for idx, json_fname in enumerate(sorted(cons_jsons_path.glob("*.json"), reverse=
             latent_mask=latent_mask_b1,
             bg_latents_list=latents_list_empty,
             blend_latents_timesteps=range(end_latent_blending),
+            mask_dsa_v=True,
+            blend_sattn=True,
         )
         b1_editor = deepcopy(scene.editor)
         if SAVE_IMGS:
@@ -173,7 +175,8 @@ for idx, json_fname in enumerate(sorted(cons_jsons_path.glob("*.json"), reverse=
             bg_latents_list=latents_list_empty,
             blend_latents_timesteps=range(end_latent_blending),
             fg_latents_list=interm_lats,
-            # blend_sattn=True,
+            mask_dsa_v=True,
+            blend_sattn=True,
         )
 
         if SAVE_IMGS:
